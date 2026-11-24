@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+button{
+    color: white;
+    background-color: burlywood;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 16px;
+    margin: 10px
+}

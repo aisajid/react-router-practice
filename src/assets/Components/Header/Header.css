@@ -1,0 +1,17 @@
+
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+    
+}
+nav a {
+    font-weight: 600;
+    color:blueviolet;
+    text-decoration: none;
+}
+nav a.active{
+    color: red;
+
+}
